@@ -11,14 +11,13 @@ I'm a developer from Latvia with no passion for coding whatsoever.
 ### 🚀 Tech Stack
 
 <div align="center">
-![Java](https://img.shields.io/badge/logo-java-blue?logo=java)
-![C#](https://img.shields.io/badge/logo-c%23-blue?logo=c%23)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+  <img src="https://img.shields.io/badge/logo-java-blue?logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/logo-c%23-blue?logo=c%23" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 ### What am I doing now?
@@ -30,4 +29,3 @@ Music production, cars, and Formula 1 racing.
 ---
 
 Thanks for visiting the page! 🚀
-
