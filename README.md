@@ -11,8 +11,8 @@ I'm a developer from Latvia with no passion for coding whatsoever.
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/logo-java-blue?logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/logo-c%23-blue?logo=c%23" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
