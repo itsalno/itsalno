@@ -10,7 +10,7 @@ I'm a developer from Latvia with no passion for coding whatsoever.
 
 ### My Stats
 
-![Alekss's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsalnoprivate=true&include_all_commits=true&show_icons=true&theme=swift)
+![Alekss's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsalno&include_all_commits=true&show_icons=true&theme=swift)
 
 <a href="https://github.com/itsalno/github-contributor-stats">
 
