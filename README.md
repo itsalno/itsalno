@@ -14,6 +14,10 @@ I'm a developer from Latvia with no passion for coding whatsoever.
 
 <a href="https://github.com/itsalno/github-contributor-stats">
 
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats-itsalno.vercel.app/api?username=itsalno&show_icons=true&line_height=21&theme=react" alt="Alekss's Github Stats" />
+</p>
+
 ### 🚀 Languages
 
 <div align="center">
