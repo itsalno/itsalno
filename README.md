@@ -1,6 +1,6 @@
 <div align="center">
 
-![Drifting Nissan Skyline R32](https://path-to-your-gif.gif)
+![Drifting Nissan Skyline R32](https://i.gifer.com/2Hpd.gif)
 
 </div>
 
