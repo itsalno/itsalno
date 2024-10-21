@@ -8,7 +8,11 @@
 
 I'm a developer from Latvia with no passion for coding whatsoever. 
 
-### 🚀 Tech Stack
+### My Stats
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=itsalno)](https://github.com/itsalno/github-contribution-stats/)
+
+### 🚀 Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java" alt="Java" />
@@ -19,6 +23,12 @@ I'm a developer from Latvia with no passion for coding whatsoever.
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
+
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### What am I doing now?
 Currently, I’m working freelance as a web developer.
