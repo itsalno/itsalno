@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgbu-presnenskij.ru%2Felektronnoe-obraschenie%2F%3Fu%3Dnissan-skyline-r32-drifting-gif-qq-OmqO7KHd&psig=AOvVaw3CkE0RcAeZX3Fkw8ebNlJA&ust=1729614330869000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD6_tDxn4kDFQAAAAAdAAAAABBH)" alt="Coding GIF" width="600"/>
+  
+  ![Drifting Nissan Skyline R32]([https://example.com/path/to/your/gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgbu-presnenskij.ru%2Felektronnoe-obraschenie%2F%3Fu%3Dnissan-skyline-r32-drifting-gif-qq-OmqO7KHd&psig=AOvVaw3CkE0RcAeZX3Fkw8ebNlJA&ust=1729614330869000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD6_tDxn4kDFQAAAAAdAAAAABBH))
 </div>
 
 ## 👋 Hi there!
