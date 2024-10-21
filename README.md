@@ -33,10 +33,10 @@ I'm a developer from Latvia with no passion for coding whatsoever.
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### What am I doing now?
-Currently, I’m working freelance as a web developer.
+Currently, I’m working project-base as a web developer.
 
 ### 🌟 Interests
-Music production, cars, and Formula 1 racing.
+Music production, travel, and Formula 1 racing.
 
 ---
 
